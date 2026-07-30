@@ -58,11 +58,11 @@ Key learning areas included:
 
 | Task | Project | Description | GitHub Repository |
 |------|----------|-------------|-------------------|
-| ✅ Task 1 | Dynamic Knowledge Base Chatbot | Automatically updates its knowledge base when new documents are added using LangChain and ChromaDB. | https://github.com/SANKEERTH2006-TECH/REPLACE_TASK1 |
-| ✅ Task 2 | Multi-Modal AI Assistant | AI assistant capable of understanding text and images while providing evidence-based reasoning. | https://github.com/SANKEERTH2006-TECH/REPLACE_TASK2 |
-| ✅ Task 3 | Medical Q&A Chatbot | Medical information chatbot using retrieval techniques and NLP for accurate healthcare question answering. | https://github.com/SANKEERTH2006-TECH/REPLACE_TASK3 |
-| ✅ Task 4 | Research Paper Expert Chatbot | Semantic search system for Computer Science research papers with summarization and concept explanation. | https://github.com/SANKEERTH2006-TECH/REPLACE_TASK4 |
-| ✅ Task 5 | Emotion-Aware Customer Support Chatbot | Customer support chatbot with sentiment analysis, emotion detection, and empathetic AI responses. | https://github.com/SANKEERTH2006-TECH/REPLACE_TASK5 |
+| ✅ Task 1 | Dynamic Knowledge Base Chatbot | Automatically updates its knowledge base when new documents are added using LangChain and ChromaDB. | https://github.com/SANKEERTH2006-TECH/Dynamic-Knowledge-Base-Chatbot |
+| ✅ Task 2 | Multi-Modal AI Assistant | AI assistant capable of understanding text and images while providing evidence-based reasoning. | https://github.com/SANKEERTH2006-TECH/Multimodal-AI-Assistant |
+| ✅ Task 3 | Medical Q&A Chatbot | Medical information chatbot using retrieval techniques and NLP for accurate healthcare question answering. | https://github.com/SANKEERTH2006-TECH/Medical-QA-Chatbot-MedQuAD |
+| ✅ Task 4 | Research Paper Expert Chatbot | Semantic search system for Computer Science research papers with summarization and concept explanation. | https://github.com/SANKEERTH2006-TECH/Research-Paper-Expert-Chatbot |
+| ✅ Task 5 | Emotion-Aware Customer Support Chatbot | Customer support chatbot with sentiment analysis, emotion detection, and empathetic AI responses. | https://github.com/SANKEERTH2006-TECH/Emotion-Aware-Customer-Support-Chatbot |
 | ✅ Task 6 | Multilingual Context-Aware Chatbot | AI chatbot supporting multilingual conversations while preserving context, intent, and conversational continuity. | https://github.com/SANKEERTH2006-TECH/Multilingual-Context-Aware-Chatbot |
 
 ---
